@@ -3,7 +3,7 @@
   <img src="https://camo.githubusercontent.com/d6bd84169afe2672dea87588614e27d1c0b6a0b9b1661725cadc0ae4983b0f63/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572"</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=900&height=60&lines=+Marcos+Cantelli+;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=1200&height=60&lines=+Marcos+Cantelli+;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
 </p>
 
 ## 📊 Quick stats
