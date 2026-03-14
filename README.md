@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=700&height=60&lines=+Marcos+Cantelli+;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
 </p>
+
 ## 📊 Quick stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
