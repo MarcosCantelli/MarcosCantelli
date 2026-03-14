@@ -1,10 +1,10 @@
 <!-- wave banner start -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=900&height=60&lines=🌊+Marcos+Cantelli+🌊;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=900&height=60&lines=+Marcos+Cantelli+;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" alt="Wave animation" width="800" />
+  <img src="https://www.svgrepo.com/show/210975/waves.svg" alt="Wave bar" width="100%" />
 </p>
 
 ## Hi, I’m Marcos 👋
@@ -15,26 +15,24 @@
 
 ---
 
-## 🔧 Core Competencies
+## 🔧 Core Skills
 
-- **Cloud Platforms**
-  - Microsoft Azure (AZ-900 certified)
-  - Infrastructure as Code (IaC)
-  - IaaS / PaaS / DevOps pipelines
-
-- **Infrastructure Automation**
-  - `Terraform` (IaC, modules, state management, remote backends)
-  - `Vagrant` (development environments, reproducible local infrastructure)
-  - `Terramorf` (custom provisioning workflows)
-
-- **DevOps / CI-CD**
-  - Build automation, automated testing, continuous deployment
-  - Jenkins and pipeline best practices
-  - Observability, monitoring, and logging
-
-- **Programming / Scripting**
-  - Java (backend development + automation)
-  - Bash / PowerShell / Python scripting
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      - Azure (AZ-900)
+      - Terraform / Terramorf
+      - Vagrant
+      - Jenkins / CI-CD
+    </td>
+    <td valign="top" width="50%">
+      - IaC / Cloud architecture
+      - DevOps pipelines
+      - Java + scripting (Bash, PowerShell, Python)
+      - Monitoring / Observability
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,6 +66,7 @@
 
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -77,32 +76,21 @@
 
 ## 🌟 About me
 
-I’m passionate about building scalable, secure and cost-effective cloud infrastructures. I enjoy transforming manual tasks into repeatable, automated pipelines and helping teams deliver faster with confidence.
+Fast-moving DevOps engineer with Azure AZ-900 + Terraform/Vagrant/Terramorf + Jenkins.
 
 ---
 
-## 📈 GitHub Profile Stats (Animated)
+## 📊 Quick stats
 
-<!-- Uncomment and replace user with your GitHub username -->
-
-![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=dark&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosCantelli&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 🏆 DevOps Rank & Activity
+## 🌊 Contributions
 
-![DevOps Level](https://img.shields.io/badge/DevOps-Level_4-brightgreen?style=for-the-badge)
-![On-Call](https://img.shields.io/badge/Availability-24%2F7-blue?style=for-the-badge)
-![Commit Speed](https://img.shields.io/badge/Commit%20Speed-High-success?style=for-the-badge)
-
----
-
-## ✨ Animated workflow trend
-
-![Workflow](https://raw.githubusercontent.com/<MarcosCantelli>/<MarcosCantelli>/master/github-contribution-grid-snake.svg)
-
-> Replace `<MarcosCantelli>` by your GitHub username in each dynamic badge URL for live data.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCantelli&theme=dark&hide_border=true" width="80%" />
+</p>
