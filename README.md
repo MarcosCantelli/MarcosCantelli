@@ -1,11 +1,24 @@
 <!-- wave banner start -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=900&height=60&lines=+Marcos+Cantelli+;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
+<p align="center" style="margin-bottom:0;">
+  <img src="https://raw.githubusercontent.com/MarcosCantelli/MarcosCantelli/main/waves.svg" alt="Top wave" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/210975/waves.svg" alt="Wave bar" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=900&height=60&lines=🌊+Marcos+Cantelli+🌊;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" alt="Wave animation" width="100%" />
+</p>
+
+## 📊 Quick stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
+
+---
 
 ## Hi, I’m Marcos 👋
 
@@ -89,7 +102,7 @@ Fast-moving DevOps engineer with Azure AZ-900 + Terraform/Vagrant/Terramorf + Je
 
 ---
 
-## 🌊 Contributions
+## Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCantelli&theme=dark&hide_border=true" width="80%" />
