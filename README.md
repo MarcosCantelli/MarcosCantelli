@@ -63,8 +63,8 @@
 
 ## 🌐 Connect
 
-- GitHub: [github.com/yourusername](https://github.com/marcoscantelli)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/marcos-cantelli-a450bb169/)
+- GitHub: [https://github.com/marcoscantelli]()
+- LinkedIn: [https://www.linkedin.com/in/marcos-cantelli-a450bb169]()
 - Email: marcoscantelli@hotmail.com
 
 ---
