@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
+---
+
 ## Hi, I’m Marcos 👋
 
 **DevOps & Cloud Engineer | Terraform + Vagrant + Terramorf | Azure AZ-900**
