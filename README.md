@@ -1,3 +1,12 @@
+<!-- wave banner start -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=900&height=60&lines=🌊+Marcos+Cantelli+🌊;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Terramorf+%7C+Azure+AZ-900" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" alt="Wave animation" width="800" />
+</p>
+
 ## Hi, I’m Marcos 👋
 
 **DevOps & Cloud Engineer | Terraform + Vagrant + Terramorf | Azure AZ-900**
@@ -49,9 +58,9 @@
 
 ## 🌐 Connect
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- Email: you@example.com
+- GitHub: [github.com/yourusername](https://github.com/marcoscantelli)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/marcos-cantelli-a450bb169/)
+- Email: marcoscantelli@hotmail.com
 
 ---
 
@@ -94,6 +103,6 @@ I’m passionate about building scalable, secure and cost-effective cloud infras
 
 ## ✨ Animated workflow trend
 
-![Workflow](https://raw.githubusercontent.com/<yourusername>/<yourusername>/master/github-contribution-grid-snake.svg)
+![Workflow](https://raw.githubusercontent.com/<MarcosCantelli>/<MarcosCantelli>/master/github-contribution-grid-snake.svg)
 
-> Replace `<yourusername>` by your GitHub username in each dynamic badge URL for live data.
+> Replace `<MarcosCantelli>` by your GitHub username in each dynamic badge URL for live data.
