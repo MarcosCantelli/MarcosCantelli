@@ -45,7 +45,7 @@
 
 ## 🏅 Certifications
 
-![AZ-900](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-blue?logo=microsoft-azure&style=flat-square)
+[![AZ-900](https://img.shields.io/badge/-AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/pt-br/MarcosCantelli-4128/E8D395B2E22E75A1?sharingId=76658F63FE70B25F)
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 
@@ -77,13 +77,12 @@
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-[![AZ-900](https://img.shields.io/badge/-AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/pt-br/MarcosCantelli-4128/E8D395B2E22E75A1?sharingId=76658F63FE70B25F)
 
 ---
 
 ## 🌟 About me
 
-Fast-moving DevOps engineer with Azure AZ-900 + Terraform/Vagrant/Terramorf + Jenkins.
+Fast-moving DevOps engineer with Azure AZ-900 + Terraform/Vagrant/Terraform + Jenkins.
 
 ---
 
