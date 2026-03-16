@@ -28,7 +28,7 @@
   <tr>
     <td valign="top" width="50%">
       - Azure (AZ-900)
-      - Terraform / Terramorf
+      - Terraform
       - Vagrant
       - Jenkins / CI-CD
     </td>
@@ -54,7 +54,7 @@
 ## 🚀 What I build
 
 - Reliable and secure cloud architecture in Azure
-- Automated IaC lifecycle with Terraform and Terramorf
+- Automated IaC lifecycle with Terraform
 - Reproducible local development environments using Vagrant
 - End-to-end DevOps workflows: code → test → deploy → operate
 - Java-based tools and automation scripts
