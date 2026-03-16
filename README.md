@@ -12,6 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
+## Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCantelli&theme=dark&hide_border=true" width="80%" />
+</p>
+
 ---
 
 ## Hi, I’m Marcos 👋
@@ -82,21 +88,7 @@
 
 ## 🌟 About me
 
-Fast-moving DevOps engineer with Azure AZ-900 + Terraform/Vagrant/Terraform + Jenkins.
+Fast-moving DevOps engineer with Azure AZ-900 + Terraform/Vagrant + Jenkins.
 
 ---
 
-## 📊 Quick stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCantelli&theme=dark&hide_border=true" width="80%" />
-</p>
