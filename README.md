@@ -1,8 +1,8 @@
 <!-- ===================== HEADER / WAVE ===================== -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Marcos Cantelli" />
- </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=100000&color=38BDF8&center=true&vCenter=true&repeat=false&width=500&lines=Marcos+Cantelli" alt="Marcos Cantelli" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;Terraform+%7C+Azure+%7C+Jenkins+%7C+Vagrant;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Automation" />
