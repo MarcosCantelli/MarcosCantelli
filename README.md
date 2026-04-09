@@ -1,7 +1,7 @@
 <!-- ===================== HEADER / WAVE ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Marcos%20Cantelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0ea5e9&section=header&text=Marcos%20Cantelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=55" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 📊 Quick Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://ghstats.dev/api?username=MarcosCantelli&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" />
 </p>
 
@@ -55,12 +55,8 @@ certification:
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/MarcosCantelli-4128/E8D395B2E22E75A1?sharingId=76658F63FE70B25F">
-    <img src="https://img.shields.io/badge/Microsoft-AZ--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Certified-AZ--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure" height="48" />
 </p>
 
 ---
@@ -86,19 +82,9 @@ certification:
   <a href="https://www.linkedin.com/in/marcos-cantelli-a450bb169">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:marcoscantelli@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
-
-## 🛠️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,vagrant,linux,java,jenkins,azure,docker,python,bash,powershell" />
-</p>
 
 ---
 
