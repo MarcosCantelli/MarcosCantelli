@@ -1,7 +1,7 @@
 <!-- ===================== HEADER / WAVE ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0ea5e9&section=header&text=Marcos%20Cantelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0ea5e9&amp;section=header&amp;text=Marcos%20Cantelli&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=DevOps%20%26%20Cloud%20Engineer&amp;descAlignY=55" alt="header" />
 </p>
 
 <p align="center">
