@@ -1,95 +1,115 @@
-<!-- wave banner start -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/d6bd84169afe2672dea87588614e27d1c0b6a0b9b1661725cadc0ae4983b0f63/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" alt="Typing SVG" />
-  </p>
+<!-- ===================== HEADER / WAVE ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&background=00000000&center=true&width=700&height=60&lines=+Marcos+Cantelli+;DevOps+%26+Cloud+Engineer;Terraform+%7C+Vagrant+%7C+Jenkins+%7C+Azure+AZ-900" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Marcos%20Cantelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=55" />
 </p>
 
-## 📊 Quick stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-## Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCantelli&theme=dark&hide_border=true" width="80%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;Terraform+%7C+Azure+%7C+Jenkins+%7C+Vagrant;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Automation" />
 </p>
 
 ---
 
-## Hi, I’m Marcos 👋
+## 📊 Quick Stats
 
-**DevOps & Cloud Engineer | Terraform + Vagrant + Jenkins | Azure AZ-900**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcosCantelli&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCantelli&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" />
+</p>
 
-## 🌟 About me
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=MarcosCantelli&theme=tokyonight&hide_border=false&border_radius=15" />
+</p>
 
-Fast-moving DevOps engineer with Azure AZ-900 + Terraform/Vagrant + Jenkins.
+> ✅ **Correção aplicada:** troquei o serviço antigo do streak por **streak-stats.demolab.com**, que é o mais estável atualmente.
 
 ---
 
-🎯 Focus: infrastructure automation, cloud reliability, scalable environments, and continuous delivery.
+## 👨‍💻 About Me
+
+```yaml
+name: Marcos Cantelli
+role: DevOps & Cloud Engineer
+focus:
+  - Azure Cloud
+  - Infrastructure as Code
+  - CI/CD Pipelines
+  - Automation & Reliability
+certification:
+  - Microsoft Azure AZ-900
+```
+
+🎯 Focused on **cloud automation, scalable infrastructure, observability, and continuous delivery**.
 
 ---
 
-## 🔧 Core Skills
+## 🚀 Core Stack
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      - Azure (AZ-900)
-      - Terraform
-      - Vagrant
-      - Jenkins / CI-CD
-    </td>
-    <td valign="top" width="50%">
-      - IaC / Cloud architecture
-      - DevOps pipelines
-      - Java + scripting (Bash, PowerShell, Python)
-      - Monitoring / Observability
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,jenkins,bash,powershell,python,java,docker,linux,git,github" />
+</p>
 
 ---
 
 ## 🏅 Certifications
 
-[![AZ-900](https://img.shields.io/badge/-AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/pt-br/MarcosCantelli-4128/E8D395B2E22E75A1?sharingId=76658F63FE70B25F)
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/MarcosCantelli-4128/E8D395B2E22E75A1?sharingId=76658F63FE70B25F">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-
----
-
-## 🚀 What I build
-
-- Reliable and secure cloud architecture in Azure
-- Automated IaC lifecycle with Terraform
-- Reproducible local development environments using Vagrant
-- End-to-end DevOps workflows: code → test → deploy → operate
-- Java-based tools and automation scripts
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure" height="48" />
+</p>
 
 ---
 
-## 🌐 Connect
+## 🏗️ What I Build
 
-- GitHub: [https://github.com/MarcosCantelli]
-- LinkedIn: [https://www.linkedin.com/in/marcos-cantelli-a450bb169]
-- Email: marcoscantelli@hotmail.com
-
----
-
-## 🛠️ Tech Badges
-
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+* ☁️ Secure and scalable **Azure cloud architectures**
+* 🏗️ Automated **IaC lifecycle with Terraform**
+* 🔁 Reproducible environments with **Vagrant**
+* ⚙️ Complete **CI/CD pipelines with Jenkins**
+* 🐍 ☕ Automation scripts in **Python, Bash, PowerShell, and Java**
+* 📈 Monitoring, observability, and reliability engineering
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MarcosCantelli">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/marcos-cantelli-a450bb169">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:marcoscantelli@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,vagrant,linux,java,jenkins,azure,docker,python,bash,powershell" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer" />
+</p>
