@@ -21,8 +21,6 @@
   <img height="180" src="https://streak-stats.demolab.com?user=MarcosCantelli&theme=tokyonight&hide_border=false&border_radius=15" />
 </p>
 
-> ✅ **Correção aplicada:** troquei o serviço antigo do streak por **streak-stats.demolab.com**, que é o mais estável atualmente.
-
 ---
 
 ## 👨‍💻 About Me
